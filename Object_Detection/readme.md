@@ -1,0 +1,1 @@
+pytorch를 사용한 object_detection inference
