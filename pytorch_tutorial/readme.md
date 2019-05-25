@@ -8,3 +8,6 @@
 
 ## Lineaar_Regreession.ipynb
 - fast campus Generative Model 수업(전인수 ) 코드 따라치기
+
+## learning_pytorch_with_examples_numpy.ipynb
+- pytorch tutorial 
