@@ -10,4 +10,7 @@
 - fast campus Generative Model 수업(전인수 ) 코드 따라치기
 
 ## learning_pytorch_with_examples_numpy.ipynb
-- pytorch tutorial 
+- pytorch tutorial 중 numpy로 neural network 구현
+
+## learning_pytorch_with_examples_tensors.ipynb
+- pytorch tutorial 중 tensor로 neural network 
