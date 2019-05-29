@@ -14,3 +14,6 @@
 
 ## learning_pytorch_with_examples_tensors.ipynb
 - pytorch tutorial 중 tensor로 neural network 
+
+## learning_pytorch_with_examples_autograd.ipynb
+- pytorch tutorial 중 autograd를 사용한 자동 
