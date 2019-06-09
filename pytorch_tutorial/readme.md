@@ -17,3 +17,6 @@
 
 ## learning_pytorch_with_examples_autograd.ipynb
 - pytorch tutorial 중 autograd를 사용한 자동 
+
+## learning_pytorch_with_examples_new_func.ipynb
+- pytorch tutorial 중 autograd 재 정
